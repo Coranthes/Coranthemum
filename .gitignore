@@ -1,7 +1,7 @@
-/httpRequests/
 /.gradle
 /build
 /run
+/run*
 /logs
 /.vscode
 /.settings
@@ -19,7 +19,7 @@
 /*.iml
 /src/main/main.iml
 /heap
-/libs/*
+/libs
 !/libs/.gitkeep
 /web/node_modules
 /web/vendor
@@ -32,7 +32,7 @@ Thumbs.db
 /private.properties
 
 ## Testing things
-/src/main/java/coranthes/coranthemum/test/*
+/src/main/java/svenhjol/strange/test/*
 
 ## Jars
 *.jar
@@ -71,3 +71,7 @@ buildmc.sh
 runClient.launch
 runServer.launch
 *.code-workspace
+
+/b0rk
+/b0rker
+/copycharm.sh
