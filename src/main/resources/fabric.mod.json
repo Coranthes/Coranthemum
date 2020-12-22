@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "coranthemum",
+  "version": "${version}",
+
+  "name": "Coranthemum",
+  "description": "Shiny things.",
+  "authors": [
+    "coranthes"
+  ],
+  "contact": {
+    "homepage": "https://coranthes.github.io/Coranthemum/",
+    "sources": "https://github.com/coranthes/Coranthemum"
+  },
+
+  "license": "MIT",
+  "icon": "assets/coranthemum/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "coranthes.coranthemum.Coranthemum"
+    ],
+    "client": [
+      "coranthes.coranthemum.CoranthemumClient"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x",
+    "charm": ">=2.2.0"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

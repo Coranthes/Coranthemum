@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": { 
+		"layer0": "coranthemum:item/baby_chicken_bucket"
+	}
+}
