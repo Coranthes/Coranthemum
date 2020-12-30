@@ -1,7 +1,7 @@
 package coranthes.coranthemum;
 
 import coranthes.coranthemum.module.BabyChickenBuckets;
-import coranthes.coranthemum.module.BubbleWood;
+import coranthes.coranthemum.module.BubbleCoralwood;
 import net.fabricmc.api.ModInitializer;
 import svenhjol.charm.Charm;
 import svenhjol.charm.base.CharmLoader;
@@ -18,7 +18,7 @@ public class Coranthemum implements ModInitializer {
 
         new CharmLoader(Coranthemum.MOD_ID, Arrays.asList(
             BabyChickenBuckets.class,
-            BubbleWood.class
+            BubbleCoralwood.class
         ));
     }
 }
