@@ -1,6 +1,7 @@
 package coranthes.coranthemum;
 
 import coranthes.coranthemum.module.BabyChickenBuckets;
+import coranthes.coranthemum.module.Slate;
 import net.fabricmc.api.ModInitializer;
 import svenhjol.charm.Charm;
 import svenhjol.charm.base.CharmLoader;
@@ -16,7 +17,8 @@ public class Coranthemum implements ModInitializer {
         Charm.runFirst();
 
         new CharmLoader(Coranthemum.MOD_ID, Arrays.asList(
-            BabyChickenBuckets.class
+            BabyChickenBuckets.class,
+            Slate.class
         ));
     }
 }

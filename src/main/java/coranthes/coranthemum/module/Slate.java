@@ -1,5 +1,6 @@
 package coranthes.coranthemum.module;
 
+import coranthes.coranthemum.Coranthemum;
 import coranthes.coranthemum.block.SlateBlock;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Material;
@@ -32,13 +33,13 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
-@Module(mod = Charm.MOD_ID, description = "New stone added to worldgen .")
+@Module(mod = Coranthemum.MOD_ID, description = "New stone added to worldgen .")
 public class Slate extends CharmModule {
-    public static SlateBlock SLATE_BLOCK;
+    public static coranthes.coranthemum.block.SlateBlock SLATE_BLOCK;
 
     @Override
     public void register() {
-        SLATE_BLOCK = new SlateBlock(this);
+        SLATE_BLOCK = new coranthes.coranthemum.block.SlateBlock(this);
     }
 
 
