@@ -34,14 +34,14 @@ public class Slate extends CharmModule {
                 .configure(new OreFeatureConfig(
                         OreFeatureConfig.Rules.BASE_STONE_OVERWORLD,
                         SLATE_BLOCK.getDefaultState(),
-                        33)) // vein size
+                        10)) // vein size
                 .decorate(Decorator.RANGE.configure(new RangeDecoratorConfig(
                         0, // bottom offset
                         0, // min y level
                         // max y level
-                        100)))
+                        70)))
                 .spreadHorizontally()
-                .repeat(50); // number of veins per chunk
+                .repeat(5); // number of veins per chunk
 
         RegistryKey<ConfiguredFeature<?, ?>> key = RegistryKey.of(Registry.CONFIGURED_FEATURE_WORLDGEN, ID);
         Registry.register(BuiltinRegistries.CONFIGURED_FEATURE, key.getValue(), FEATURE);

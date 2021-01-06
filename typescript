@@ -1,0 +1,149 @@
+Script started on 2021-01-03 16:26:46-05:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="227" LINES="13"]
+]0;josa@pop-os: ~/intellij/Coranthemum[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum[00m$ cd scripts/
+]0;josa@pop-os: ~/intellij/Coranthemum/scripts[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum/scripts[00m$ .makeP[K-[K_variants.sh storage:prismarine
+.make_variants.sh: command not found
+]0;josa@pop-os: ~/intellij/Coranthemum/scripts[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum/scripts[00m$ .make_variants.sh storage:prismarine[C[1@/
+mkdir: cannot create directory ‘../src/main/resources/data/covalent/recipes/storage’: No such file or directory
+cp: cannot create regular file '../src/main/resources/assets/covalent/blockstates/prismarine_barrel.json': No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/blockstates/prismarine_barrel.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/blockstates/prismarine_barrel.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/blockstates/prismarine_barrel.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/assets/covalent/models/item/prismarine_barrel.json': No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/item/prismarine_barrel.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/item/prismarine_barrel.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/item/prismarine_barrel.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/assets/covalent/models/block/prismarine_barrel.json': No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_barrel.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_barrel.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_barrel.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/assets/covalent/models/block/prismarine_barrel_open.json': No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_barrel_open.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_barrel_open.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_barrel_open.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/data/covalent/loot_tables/blocks/prismarine_barrel.json': No such file or directory
+sed: can't read ../src/main/resources/data/covalent/loot_tables/blocks/prismarine_barrel.json: No such file or directory
+sed: can't read ../src/main/resources/data/covalent/loot_tables/blocks/prismarine_barrel.json: No such file or directory
+sed: can't read ../src/main/resources/data/covalent/loot_tables/blocks/prismarine_barrel.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/data/covalent/recipes/storage/prismarine_barrel.json': No such file or directory
+sed: can't read ../src/main/resources/data/covalent/recipes/storage/prismarine_barrel.json: No such file or directory
+sed: can't read ../src/main/resources/data/covalent/recipes/storage/prismarine_barrel.json: No such file or directory
+sed: can't read ../src/main/resources/data/covalent/recipes/storage/prismarine_barrel.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/assets/covalent/blockstates/prismarine_bookcase.json': No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/blockstates/prismarine_bookcase.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/blockstates/prismarine_bookcase.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/blockstates/prismarine_bookcase.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/assets/covalent/models/item/prismarine_bookcase.json': No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/item/prismarine_bookcase.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/item/prismarine_bookcase.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/item/prismarine_bookcase.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/assets/covalent/models/block/prismarine_bookcase_0.json': No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_0.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_0.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_0.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/assets/covalent/models/block/prismarine_bookcase_1.json': No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_1.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_1.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_1.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_1.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/assets/covalent/models/block/prismarine_bookcase_2.json': No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_2.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_2.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_2.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_2.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/assets/covalent/models/block/prismarine_bookcase_3.json': No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_3.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_3.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_3.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_3.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/assets/covalent/models/block/prismarine_bookcase_4.json': No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_4.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_4.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_4.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_4.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/assets/covalent/models/block/prismarine_bookcase_5.json': No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_5.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_5.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_5.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_5.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/assets/covalent/models/block/prismarine_bookcase_6.json': No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_6.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_6.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_6.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_6.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/assets/covalent/models/block/prismarine_bookcase_7.json': No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_7.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_7.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_7.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_7.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/assets/covalent/models/block/prismarine_bookcase_8.json': No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_8.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_8.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_8.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_8.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/assets/covalent/models/block/prismarine_bookcase_9.json': No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_9.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_9.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_9.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_bookcase_9.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/data/covalent/loot_tables/blocks/prismarine_bookcase.json': No such file or directory
+sed: can't read ../src/main/resources/data/covalent/loot_tables/blocks/prismarine_bookcase.json: No such file or directory
+sed: can't read ../src/main/resources/data/covalent/loot_tables/blocks/prismarine_bookcase.json: No such file or directory
+sed: can't read ../src/main/resources/data/covalent/loot_tables/blocks/prismarine_bookcase.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/data/covalent/recipes/storage/prismarine_bookcase.json': No such file or directory
+sed: can't read ../src/main/resources/data/covalent/recipes/storage/prismarine_bookcase.json: No such file or directory
+sed: can't read ../src/main/resources/data/covalent/recipes/storage/prismarine_bookcase.json: No such file or directory
+sed: can't read ../src/main/resources/data/covalent/recipes/storage/prismarine_bookcase.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/assets/covalent/blockstates/prismarine_crate.json': No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/blockstates/prismarine_crate.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/blockstates/prismarine_crate.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/blockstates/prismarine_crate.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/assets/covalent/models/block/prismarine_crate.json': No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_crate.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_crate.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/block/prismarine_crate.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/assets/covalent/models/item/prismarine_crate.json': No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/item/prismarine_crate.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/item/prismarine_crate.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/models/item/prismarine_crate.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/data/covalent/loot_tables/blocks/prismarine_crate.json': No such file or directory
+sed: can't read ../src/main/resources/data/covalent/loot_tables/blocks/prismarine_crate.json: No such file or directory
+sed: can't read ../src/main/resources/data/covalent/loot_tables/blocks/prismarine_crate.json: No such file or directory
+sed: can't read ../src/main/resources/data/covalent/loot_tables/blocks/prismarine_crate.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/data/covalent/recipes/storage/prismarine_crate.json': No such file or directory
+sed: can't read ../src/main/resources/data/covalent/recipes/storage/prismarine_crate.json: No such file or directory
+sed: can't read ../src/main/resources/data/covalent/recipes/storage/prismarine_crate.json: No such file or directory
+sed: can't read ../src/main/resources/data/covalent/recipes/storage/prismarine_crate.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/lang/en_us.json: No such file or directory
+sed: can't read ../src/main/resources/assets/covalent/lang/en_us.json: No such file or directory
+./make_variants.sh: line 46: ../src/main/resources/assets/covalent/lang/en_us.json: No such file or directory
+Done!
+]0;josa@pop-os: ~/intellij/Coranthemum/scripts[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum/scripts[00m$ ./make_variants.sh storage:prismarine
+mkdir: cannot create directory ‘../src/main/resources/data/coranthemum/recipes/storage’: No such file or directory
+cp: cannot create regular file '../src/main/resources/data/coranthemum/loot_tables/blocks/prismarine_barrel.json': No such file or directory
+sed: can't read ../src/main/resources/data/coranthemum/loot_tables/blocks/prismarine_barrel.json: No such file or directory
+sed: can't read ../src/main/resources/data/coranthemum/loot_tables/blocks/prismarine_barrel.json: No such file or directory
+sed: can't read ../src/main/resources/data/coranthemum/loot_tables/blocks/prismarine_barrel.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/data/coranthemum/recipes/storage/prismarine_barrel.json': No such file or directory
+sed: can't read ../src/main/resources/data/coranthemum/recipes/storage/prismarine_barrel.json: No such file or directory
+sed: can't read ../src/main/resources/data/coranthemum/recipes/storage/prismarine_barrel.json: No such file or directory
+sed: can't read ../src/main/resources/data/coranthemum/recipes/storage/prismarine_barrel.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/data/coranthemum/loot_tables/blocks/prismarine_bookcase.json': No such file or directory
+sed: can't read ../src/main/resources/data/coranthemum/loot_tables/blocks/prismarine_bookcase.json: No such file or directory
+sed: can't read ../src/main/resources/data/coranthemum/loot_tables/blocks/prismarine_bookcase.json: No such file or directory
+sed: can't read ../src/main/resources/data/coranthemum/loot_tables/blocks/prismarine_bookcase.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/data/coranthemum/recipes/storage/prismarine_bookcase.json': No such file or directory
+sed: can't read ../src/main/resources/data/coranthemum/recipes/storage/prismarine_bookcase.json: No such file or directory
+sed: can't read ../src/main/resources/data/coranthemum/recipes/storage/prismarine_bookcase.json: No such file or directory
+sed: can't read ../src/main/resources/data/coranthemum/recipes/storage/prismarine_bookcase.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/data/coranthemum/loot_tables/blocks/prismarine_crate.json': No such file or directory
+sed: can't read ../src/main/resources/data/coranthemum/loot_tables/blocks/prismarine_crate.json: No such file or directory
+sed: can't read ../src/main/resources/data/coranthemum/loot_tables/blocks/prismarine_crate.json: No such file or directory
+sed: can't read ../src/main/resources/data/coranthemum/loot_tables/blocks/prismarine_crate.json: No such file or directory
+cp: cannot create regular file '../src/main/resources/data/coranthemum/recipes/storage/prismarine_crate.json': No such file or directory
+sed: can't read ../src/main/resources/data/coranthemum/recipes/storage/prismarine_crate.json: No such file or directory
+sed: can't read ../src/main/resources/data/coranthemum/recipes/storage/prismarine_crate.json: No such file or directory
+sed: can't read ../src/main/resources/data/coranthemum/recipes/storage/prismarine_crate.json: No such file or directory
+Done!
+]0;josa@pop-os: ~/intellij/Coranthemum/scripts[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum/scripts[00m$ ./make_variants.sh storage:prismarine
+Done!
+]0;josa@pop-os: ~/intellij/Coranthemum/scripts[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum/scripts[00m$ [K]0;josa@pop-os: ~/intellij/Coranthemum/scripts[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum/scripts[00m$ [K]0;josa@pop-os: ~/intellij/Coranthemum/scripts[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum/scripts[00m$ [K]0;josa@pop-os: ~/intellij/Coranthemum/scripts[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum/scripts[00m$ [K]0;josa@pop-os: ~/intellij/Coranthemum/scripts[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum/scripts[00m$ [K]0;josa@pop-os: ~/intellij/Coranthemum/scripts[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum/scripts[00m$ [K]0;josa@pop-os: ~/intellij/Coranthemum/scripts[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum/scripts[00m$ [K]0;josa@pop-os: ~/intellij/Coranthemum/scripts[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum/scripts[00m$ [K]0;josa@pop-os: ~/intellij/Coranthemum/scripts[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum/scripts[00m$ [K]0;josa@pop-os: ~/intellij/Coranthemum/scripts[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum/scripts[00m$ [K]0;josa@pop-os: ~/intellij/Coranthemum/scripts[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum/scripts[00m$ [K]0;josa@pop-os: ~/intellij/Coranthemum/scripts[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum/scripts[00m$ [K]0;josa@pop-os: ~/intellij/Coranthemum/scripts[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum/scripts[00m$ [K]0;josa@pop-os: ~/intellij/Coranthemum/scripts[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum/scripts[00m$ [K]0;josa@pop-os: ~/intellij/Coranthemum/scripts[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum/scripts[00m$ [K]0;josa@pop-os: ~/intellij/Coranthemum/scripts[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum/scripts[00m$ [K]0;josa@pop-os: ~/intellij/Coranthemum/scripts[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum/scripts[00m$ [K]0;josa@pop-os: ~/intellij/Coranthemum/scripts[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum/scripts[00m$ [K]0;josa@pop-os: ~/intellij/Coranthemum/scripts[01;32mjosa@pop-os[00m:[01;34m~/intellij/Coranthemum/scripts[00m$ [K]0;josa@pop-os: ~/intellij/C

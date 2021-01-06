@@ -1,12 +1,13 @@
 package coranthes.coranthemum;
 
 import coranthes.coranthemum.module.BabyChickenBuckets;
-import coranthes.coranthemum.module.BubbleCoralwood;
+import coranthes.coranthemum.module.BubblePrismarine;
 import coranthes.coranthemum.module.Slate;
 import net.fabricmc.api.ModInitializer;
 import svenhjol.charm.Charm;
 import svenhjol.charm.base.CharmLoader;
 import coranthes.coranthemum.module.AquaticLantern;
+import coranthes.coranthemum.storage.Storage;
 
 import java.util.Arrays;
 
@@ -20,9 +21,10 @@ public class Coranthemum implements ModInitializer {
 
         new CharmLoader(Coranthemum.MOD_ID, Arrays.asList(
             BabyChickenBuckets.class,
-            BubbleCoralwood.class,
+            BubblePrismarine.class,
             Slate.class,
-            AquaticLantern.class
+            AquaticLantern.class,
+            Storage.class
         ));
     }
 }

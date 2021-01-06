@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "slots=0": { "model": "coranthemum:block/prismarine_bookcase_0" },
+    "slots=1": { "model": "coranthemum:block/prismarine_bookcase_1" },
+    "slots=2": { "model": "coranthemum:block/prismarine_bookcase_1" },
+    "slots=3": { "model": "coranthemum:block/prismarine_bookcase_2" },
+    "slots=4": { "model": "coranthemum:block/prismarine_bookcase_2" },
+    "slots=5": { "model": "coranthemum:block/prismarine_bookcase_3" },
+    "slots=6": { "model": "coranthemum:block/prismarine_bookcase_3" },
+    "slots=7": { "model": "coranthemum:block/prismarine_bookcase_4" },
+    "slots=8": { "model": "coranthemum:block/prismarine_bookcase_4" },
+    "slots=9": { "model": "coranthemum:block/prismarine_bookcase_5" },
+    "slots=10": { "model": "coranthemum:block/prismarine_bookcase_5" },
+    "slots=11": { "model": "coranthemum:block/prismarine_bookcase_6" },
+    "slots=12": { "model": "coranthemum:block/prismarine_bookcase_6" },
+    "slots=13": { "model": "coranthemum:block/prismarine_bookcase_7" },
+    "slots=14": { "model": "coranthemum:block/prismarine_bookcase_7" },
+    "slots=15": { "model": "coranthemum:block/prismarine_bookcase_8" },
+    "slots=16": { "model": "coranthemum:block/prismarine_bookcase_8" },
+    "slots=17": { "model": "coranthemum:block/prismarine_bookcase_9" },
+    "slots=18": { "model": "coranthemum:block/prismarine_bookcase_9" }
+  }
+}
