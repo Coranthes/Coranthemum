@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_column",
-  "textures": {
-    "end": "storage:block/prismarine_planks",
-    "side": "coranthemum:block/prismarine_bookcase_0"
-  }
-}

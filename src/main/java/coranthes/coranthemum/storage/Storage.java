@@ -12,16 +12,16 @@ import coranthes.coranthemum.Coranthemum;
 
 @Module(mod = Coranthemum.MOD_ID, description = "Storage Variants")
 public class Storage extends CharmModule {
-    public static VariantBarrelBlock PRISMARINE_BARREL;
-    public static CrateBlock PRISMARINE_CRATE;
-    //public static BookcaseBlock ROSEWOOD_BOOKCASE;
+//    public static VariantBarrelBlock PRISMARINE_BARREL;
+//    public static CrateBlock PRISMARINE_CRATE;
+//    u87uypublic static BookcaseBlock ROSEWOOD_BOOKCASE;
 
     @Override
     public void register() {
-        IVariantMaterial prismarine = StorageMaterial.PRISMARINE;
+ //       IVariantMaterial prismarine = StorageMaterial.PRISMARINE;
 
-        PRISMARINE_BARREL = new VariantBarrelBlock(this, prismarine);
-        PRISMARINE_CRATE = new CrateBlock(this, prismarine);
+ //       PRISMARINE_BARREL = new VariantBarrelBlock(this, prismarine);
+ //       PRISMARINE_CRATE = new CrateBlock(this, prismarine);
 //        ROSEWOOD_BOOKCASE = new BookcaseBlock(this, rosewood);
     }
 

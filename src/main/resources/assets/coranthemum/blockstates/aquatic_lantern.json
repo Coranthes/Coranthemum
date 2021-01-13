@@ -1,6 +1,0 @@
-{
-  "variants": {
-    "hanging=false": { "model": "coranthemum:block/aquatic_lantern" },
-    "hanging=true": { "model": "coranthemum:block/aquatic_lantern" }
-  }
-}

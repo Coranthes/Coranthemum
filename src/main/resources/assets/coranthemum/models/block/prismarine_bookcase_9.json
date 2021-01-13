@@ -1,6 +1,0 @@
-{
-  "parent": "coranthemum:block/prismarine_bookcase_0",
-  "textures": {
-    "side": "storage:block/prismarine_bookshelf"
-  }
-}

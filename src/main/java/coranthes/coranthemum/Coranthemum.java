@@ -6,7 +6,6 @@ import coranthes.coranthemum.module.Slate;
 import net.fabricmc.api.ModInitializer;
 import svenhjol.charm.Charm;
 import svenhjol.charm.base.CharmLoader;
-import coranthes.coranthemum.module.AquaticLantern;
 import coranthes.coranthemum.storage.Storage;
 
 import java.util.Arrays;
@@ -23,7 +22,6 @@ public class Coranthemum implements ModInitializer {
             BabyChickenBuckets.class,
             BubblePrismarine.class,
             Slate.class,
-            AquaticLantern.class,
             Storage.class
         ));
     }

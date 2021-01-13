@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_bottom_top",
-  "textures": {
-    "top": "coranthemum:block/prismarine_crate_top",
-    "side": "coranthemum:block/prismarine_crate_side",
-    "bottom": "coranthemum:block/prismarine_crate_top"
-  }
-}
