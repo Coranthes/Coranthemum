@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP", "PBP", "PPP"
+  ],
+  "key": {
+    "B": {"item": "minecraft:black_dye"},
+    "P": {"item": "minecraft:purpur_pillar"}
+  },
+  "result": {
+    "item": "charm:dark_purpur_pillar",
+    "count": 8
+  }
+}

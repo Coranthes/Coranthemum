@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "coranthemum:block/dark_purpur_pillar"
+  }
+}
