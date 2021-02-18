@@ -8,7 +8,7 @@
     "P": {"item": "minecraft:purpur_block"}
   },
   "result": {
-    "item": "charm:dark_purpur",
+    "item": "coranthemum:dark_purpur",
     "count": 8
   }
 }
