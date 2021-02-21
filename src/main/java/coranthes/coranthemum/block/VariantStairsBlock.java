@@ -14,7 +14,7 @@ public class VariantStairsBlock extends StairsBlock implements ICharmBlock {
     private final CharmModule module;
 
     public VariantStairsBlock(CharmModule module, IVariantMaterial type) {
-        super(AbstractBlock.Settings.copy(Blocks.STAIRS));
+        super(Blocks.STONE_STAIRS.getDefaultState(), AbstractBlock.Settings.copy(Blocks.STONE_STAIRS));
         register(module, type.asString() + "_stairs");
 
         this.module = module;
