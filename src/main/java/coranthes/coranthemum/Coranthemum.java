@@ -4,7 +4,6 @@ import coranthes.coranthemum.module.*;
 import net.fabricmc.api.ModInitializer;
 import svenhjol.charm.Charm;
 import svenhjol.charm.base.CharmLoader;
-import coranthes.coranthemum.storage.Storage;
 
 import java.util.Arrays;
 
@@ -20,7 +19,6 @@ public class Coranthemum implements ModInitializer {
             BabyChickenBuckets.class,
             BubblePrismarine.class,
             Slate.class,
-            Storage.class,
             TubePrismarine.class,
             PolishedPurpur.class,
             PolishedPrismarine.class,
