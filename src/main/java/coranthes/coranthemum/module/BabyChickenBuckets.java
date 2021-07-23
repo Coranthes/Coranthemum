@@ -13,10 +13,8 @@ import net.minecraft.util.ActionResult;
 import net.minecraft.util.Hand;
 import net.minecraft.util.hit.EntityHitResult;
 import net.minecraft.world.World;
-import svenhjol.charm.base.CharmModule;
-import svenhjol.charm.base.helper.ItemNBTHelper;
-import svenhjol.charm.base.helper.PlayerHelper;
-import svenhjol.charm.base.iface.Module;
+import svenhjol.charm.loader.CharmModule;
+
 
 @Module(mod = Coranthemum.MOD_ID, description = "Transport a baby chicken using a bucket.")
 public class BabyChickenBuckets extends CharmModule {

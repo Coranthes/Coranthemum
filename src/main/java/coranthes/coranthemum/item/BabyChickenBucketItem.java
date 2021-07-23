@@ -5,7 +5,7 @@ import net.minecraft.entity.SpawnReason;
 import net.minecraft.entity.passive.ChickenEntity;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.*;
-import net.minecraft.nbt.CompoundTag;
+import net.minecraft.nbt.NbtCompound;
 import net.minecraft.server.world.ServerWorld;
 import net.minecraft.sound.SoundCategory;
 import net.minecraft.sound.SoundEvents;
@@ -14,18 +14,14 @@ import net.minecraft.util.Hand;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.math.Direction;
 import net.minecraft.world.World;
-import svenhjol.charm.base.CharmModule;
-import svenhjol.charm.base.helper.ItemNBTHelper;
-import svenhjol.charm.base.helper.MobHelper;
-import svenhjol.charm.base.item.CharmItem;
+import svenhjol.charm.item.CharmItem;
+import svenhjol.charm.loader.CharmModule;
 
 public class BabyChickenBucketItem extends CharmItem {
     public static final String STORED_CHICKEN = "stored_chicken";
 
     public BabyChickenBucketItem(CharmModule module) {
-        super(module, "baby_chicken_bucket", new Item.Settings()
-            .group(ItemGroup.MISC)
-            .maxCount(1));
+        super(module, "baby_chicken_bucket", new Item.Settings().group(ItemGroup.MISC).maxCount(1));
     }
 
     @Override
