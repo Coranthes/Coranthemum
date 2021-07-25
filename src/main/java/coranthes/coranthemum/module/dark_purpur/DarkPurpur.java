@@ -1,13 +1,11 @@
-package coranthes.coranthemum.module;
+package coranthes.coranthemum.module.dark_purpur;
 
-import svenhjol.charm.base.CharmModule;
-import svenhjol.charm.base.iface.Module;
 import coranthes.coranthemum.Coranthemum;
-import coranthes.coranthemum.block.DarkPurpurBlock;
-import coranthes.coranthemum.block.DarkPurpurPillarBlock;
+import svenhjol.charm.annotation.CommonModule;
+import svenhjol.charm.loader.CharmModule;
 
 
-@Module(mod = Coranthemum.MOD_ID, description = "Dark version of Purpur.")
+@CommonModule(mod = Coranthemum.MOD_ID, description = "Dark version of Purpur.")
 public class DarkPurpur extends CharmModule {
     public static DarkPurpurBlock DARK_PURPUR;
     public static DarkPurpurPillarBlock DARK_PURPUR_PILLAR;

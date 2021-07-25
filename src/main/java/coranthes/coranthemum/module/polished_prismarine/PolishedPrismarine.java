@@ -1,11 +1,10 @@
-package coranthes.coranthemum.module;
+package coranthes.coranthemum.module.polished_prismarine;
 
-import svenhjol.charm.base.CharmModule;
-import svenhjol.charm.base.iface.Module;
 import coranthes.coranthemum.Coranthemum;
-import coranthes.coranthemum.block.PolishedPrismarineBlock;
+import svenhjol.charm.annotation.CommonModule;
+import svenhjol.charm.loader.CharmModule;
 
-@Module(mod = Coranthemum.MOD_ID, description = "Prismarine with a softer texture and a bit of a sparkle.")
+@CommonModule(mod = Coranthemum.MOD_ID, description = "Prismarine with a softer texture and a bit of a sparkle.")
 public class PolishedPrismarine extends CharmModule {
     public static PolishedPrismarine POLISHED_PRISMARINE_BLOCK;
 
